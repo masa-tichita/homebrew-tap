@@ -3,8 +3,8 @@
 class Roomy < Formula
   desc "Keeps your Mac roomy: finds what is safe to delete, warns before space runs out"
   homepage "https://github.com/masa-tichita/roomy"
-  url "https://github.com/masa-tichita/roomy/releases/download/v0.1.0/roomy-v0.1.0-universal-apple-darwin.tar.gz"
-  sha256 "d175664abbf9dabfb501770d8d7c5746fc56389af9a9e6dc86fb595adaaf4b7b"
+  url "https://github.com/masa-tichita/roomy/releases/download/v0.2.0/roomy-v0.2.0-universal-apple-darwin.tar.gz"
+  sha256 "f43b0fc9ef64116517176fac76220327b49548f14936eaea7f589cc528a980f9"
   license any_of: ["MIT", "Apache-2.0"]
 
   depends_on :macos
